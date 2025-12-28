@@ -1,1 +1,1 @@
-https://github.com/JanNafta/propellerads-mcp/archive/refs/heads/main.zip
+git+https://github.com/kokojambos250325/propellerads-mcp.git
